@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "description": "task"
+    },
+    {
+      "title": "hi",
+      "description": "greet",
+      "id": 2
+    },
+    {
+      "title": "hi",
+      "description": "welcome",
+      "id": 3
+    },
+    {
+      "title": "training",
+      "description": "legato",
+      "id": 4
+    },
+    {
+      "title": "legato",
+      "description": "company",
+      "id": 5
+    }
+  ]
+}
